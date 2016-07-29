@@ -1,0 +1,28 @@
+{
+  "name": "material.ui",
+  "version": "0.0.0-development",
+  "description": "Another Material UI package",
+  "main": "dist/material.ui.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LestaD/material.ui.git"
+  },
+  "keywords": [
+    "material",
+    "ui",
+    "package",
+    "google",
+    "design",
+    "react",
+    "component"
+  ],
+  "author": "Sergey Sova <i.am@lestad.net> (https://lestad.top)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LestaD/material.ui/issues"
+  },
+  "homepage": "https://github.com/LestaD/material.ui#readme"
+}
